@@ -11,6 +11,7 @@ npm start
 
 # Node dependencies
 npm install express --save
+npm install request
 
 
 # Notes
