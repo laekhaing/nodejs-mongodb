@@ -16,3 +16,6 @@ npm install request
 
 # Notes
 <li>To create a new node project run "npm init" to autogenerate package.json</li>
+
+# Pending
+All
