@@ -16,3 +16,4 @@ npm install request
 
 # Notes
 <li>To create a new node project run "npm init" to autogenerate package.json</li>
+<li>Start the studying of nodejs-mongodb</li>
